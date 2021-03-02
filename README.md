@@ -1,2 +1,2 @@
 # Presentations
-A repository containing slides of sessions hosted
+A repository containing presentations of talks given
